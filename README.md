@@ -13,10 +13,10 @@
 ## 预览
 
 ### 桌面端界面
-![chfs_gui 桌面端截图](images/gui.png)
+![chfs_gui 桌面端截图]([images/gui.png](https://github.com/Vlxnz/chfs_gui/blob/main/1.png))
 
 ### 网页端界面
-![chfs_gui 网页端截图](images/web.png)
+![chfs_gui 网页端截图][(images/web.png](https://github.com/Vlxnz/chfs_gui/blob/main/2.png))
 
 ---
 
