@@ -87,4 +87,3 @@ This custom edition simplifies and refines the original project while keeping al
 
 ---
 
-> 🪶 *chfs_gui Custom Edition — Simple · Free · Customizable*
